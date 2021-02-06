@@ -85,6 +85,10 @@ main {
 
 }
 
+/* .principal > .container {
+    display: flex;
+    
+} */
 
 main .principal {
     position: relative;
@@ -107,7 +111,7 @@ main .principal {
 
 
 .info-container {
-    width: 100%;
+    /* width: 100%; */
     /* padding-right: 10%; */
 }
 
